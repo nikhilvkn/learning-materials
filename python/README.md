@@ -9,7 +9,7 @@ python knowledge to documents and articles about -
 - Things to remember
 - Interview Questions
 
-Hope it's going to be a wonderful journey ahead. "Keep Learning" :heart_eyes:
+Hope it's going to be a wonderful afterall. "Keep Learning" :heart_eyes:
 
 ```
 Maintainer: Nikhil Narayanan [nikhilvkn@yahoo.com]
