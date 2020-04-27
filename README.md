@@ -11,3 +11,8 @@
 >__Git__
   * [Command Finder](https://gitexplorer.com/)
   * [Git Learning](https://learngitbranching.js.org/)
+  
+>__MachineLearning__
+  * [Common Mistakes](https://elitedatascience.com/beginner-mistakes)
+  * [Projects](https://elitedatascience.com/machine-learning-projects-for-beginners)
+  * [ML Data](https://www.kaggle.com/)
