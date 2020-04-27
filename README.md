@@ -18,3 +18,4 @@
   * [ML Data](https://www.kaggle.com/)
   * [Pandas Cheat Sheet](https://elitedatascience.com/python-cheat-sheet)
   * [ML Notebook](https://github.com/madewithml/lessons/tree/4ad626098aca25db5628fe67895e738d5a5c2c2a)
+  * [Seaborn Tutorial](https://elitedatascience.com/python-seaborn-tutorial)
