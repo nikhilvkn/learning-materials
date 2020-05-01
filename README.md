@@ -21,3 +21,5 @@
   * [Seaborn Tutorial](https://elitedatascience.com/python-seaborn-tutorial)
   * [Google Teachable ML](https://teachablemachine.withgoogle.com/)
   * [ML PlayGround](https://ml-playground.com/#)
+  * [Pandas:Learn By Doing](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+  
