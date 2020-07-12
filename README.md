@@ -27,5 +27,6 @@
   * [SSL Handshake](https://www.thesslstore.com/blog/explaining-ssl-handshake/)
   
  >__System Design__
+  * [Build up a basic understanding](https://www.freecodecamp.org/news/systems-design-for-interviews/)
   * [Concept & Examples](https://github.com/donnemartin/system-design-primer)
   
